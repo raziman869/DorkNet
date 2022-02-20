@@ -17,7 +17,7 @@ t = Terminal()
 
 # Check for args, print logo and usage
 if not len(sys.argv[1:]):
-    print t.cyan("""
+    print https://github.com/raziman869("""
  ____          _   _____     _   
 |    \ ___ ___| |_|   | |___| |_ 
 |  |  | . |  _| '_| | | | -_|  _|
